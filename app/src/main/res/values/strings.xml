@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Giữ xe nfc</string>
+    <string name="e_g_5">e.g 5</string>
+    <string name="title_activity_showimg">showimg</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
